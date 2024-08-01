@@ -1,4 +1,5 @@
 Anunnaki Cuneiform Calculator
+
 This project is a React-based calculator themed around the Anunnaki, featuring cuneiform numerals and styling reminiscent of ancient Mesopotamian artifacts blended with futuristic elements.
 Prerequisites
 Before you begin, ensure you have the following installed on your local machine:
